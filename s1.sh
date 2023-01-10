@@ -1,4 +1,4 @@
-echo "hi y=this is from github"
+echo "hi this is from github"
 echo "owner of this accout is farukh"
 pwd
 echo "Using for loop to print 10 numbers "
