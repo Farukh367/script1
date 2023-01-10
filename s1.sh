@@ -4,6 +4,6 @@ pwd
 echo "Using for loop to print 10 numbers "
 for (( i=1; i<=10; i++ ))
 do
-   echo -n "$i"
+   echo -n "$i /n"
 done
 echo ""
